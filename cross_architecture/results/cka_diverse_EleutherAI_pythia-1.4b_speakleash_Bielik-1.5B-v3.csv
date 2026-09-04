@@ -1,0 +1,3 @@
+model_a,model_b,lang_a,lang_b,setting,layer,cka_matched,cka_shuffled
+EleutherAI/pythia-1.4b,speakleash/Bielik-1.5B-v3,eng_latn,pol_latn,sgpt,first,0.38797368619898387,0.2402346068452199
+EleutherAI/pythia-1.4b,speakleash/Bielik-1.5B-v3,eng_latn,pol_latn,sgpt,last,0.6650195009143706,0.12761603827320564

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "eiffel_tower",
+    "prompt": {
+      "eng_latn": "The Eiffel Tower is located in",
+      "fra_latn": "La tour Eiffel est située à",
+      "deu_latn": "Der Eiffelturm befindet sich in",
+      "spa_latn": "La torre Eiffel se encuentra en",
+      "zho_hans": "埃菲尔铁塔位于"
+    },
+    "answer": {
+      "eng_latn": "Paris",
+      "fra_latn": "Paris",
+      "deu_latn": "Paris",
+      "spa_latn": "París",
+      "zho_hans": "巴黎"
+    }
+  },
+  {
+    "id": "louvre",
+    "prompt": {
+      "eng_latn": "The Louvre is located in",
+      "fra_latn": "Le Louvre est situé à",
+      "deu_latn": "Der Louvre befindet sich in",
+      "spa_latn": "El Louvre se encuentra en",
+      "zho_hans": "卢浮宫位于"
+    },
+    "answer": {
+      "eng_latn": "Paris",
+      "fra_latn": "Paris",
+      "deu_latn": "Paris",
+      "spa_latn": "París",
+      "zho_hans": "巴黎"
+    }
+  },
+  {
+    "id": "big_ben",
+    "prompt": {
+      "eng_latn": "Big Ben is located in",
+      "fra_latn": "Big Ben est situé à",
+      "deu_latn": "Big Ben befindet sich in",
+      "spa_latn": "El Big Ben se encuentra en",
+      "zho_hans": "大本钟位于"
+    },
+    "answer": {
+      "eng_latn": "London",
+      "fra_latn": "Londres",
+      "deu_latn": "London",
+      "spa_latn": "Londres",
+      "zho_hans": "伦敦"
+    }
+  },
+  {
+    "id": "buckingham_palace",
+    "prompt": {
+      "eng_latn": "Buckingham Palace is located in",
+      "fra_latn": "Le palais de Buckingham est situé à",
+      "deu_latn": "Der Buckingham Palace befindet sich in",
+      "spa_latn": "El palacio de Buckingham se encuentra en",
+      "zho_hans": "白金汉宫位于"
+    },
+    "answer": {
+      "eng_latn": "London",
+      "fra_latn": "Londres",
+      "deu_latn": "London",
+      "spa_latn": "Londres",
+      "zho_hans": "伦敦"
+    }
+  },
+  {
+    "id": "colosseum",
+    "prompt": {
+      "eng_latn": "The Colosseum is located in",
+      "fra_latn": "Le Colisée est situé à",
+      "deu_latn": "Das Kolosseum befindet sich in",
+      "spa_latn": "El Coliseo se encuentra en"
+    },
+    "answer": {
+      "eng_latn": "Rome",
+      "fra_latn": "Rome",
+      "deu_latn": "Rom",
+      "spa_latn": "Roma"
+    }
+  },
+  {
+    "id": "trevi_fountain",
+    "prompt": {
+      "eng_latn": "The Trevi Fountain is located in",
+      "fra_latn": "La fontaine de Trevi est située à",
+      "deu_latn": "Der Trevi-Brunnen befindet sich in",
+      "spa_latn": "La Fontana de Trevi se encuentra en",
+      "zho_hans": "特雷维喷泉位于"
+    },
+    "answer": {
+      "eng_latn": "Rome",
+      "fra_latn": "Rome",
+      "deu_latn": "Rom",
+      "spa_latn": "Roma",
+      "zho_hans": "罗马"
+    }
+  },
+  {
+    "id": "brandenburg_gate",
+    "prompt": {
+      "eng_latn": "The Brandenburg Gate is located in",
+      "fra_latn": "La porte de Brandebourg est située à",
+      "deu_latn": "Das Brandenburger Tor befindet sich in",
+      "spa_latn": "La Puerta de Brandeburgo se encuentra en",
+      "zho_hans": "勃兰登堡门位于"
+    },
+    "answer": {
+      "eng_latn": "Berlin",
+      "fra_latn": "Berlin",
+      "deu_latn": "Berlin",
+      "spa_latn": "Berlín",
+      "zho_hans": "柏林"
+    }
+  },
+  {
+    "id": "sagrada_familia",
+    "prompt": {
+      "eng_latn": "The Sagrada Familia is located in",
+      "fra_latn": "La Sagrada Família est située à",
+      "deu_latn": "Die Sagrada Família befindet sich in",
+      "spa_latn": "La Sagrada Familia se encuentra en",
+      "zho_hans": "圣家堂位于"
+    },
+    "answer": {
+      "eng_latn": "Barcelona",
+      "fra_latn": "Barcelone",
+      "deu_latn": "Barcelona",
+      "spa_latn": "Barcelona",
+      "zho_hans": "巴塞罗那"
+    }
+  },
+  {
+    "id": "statue_of_liberty",
+    "prompt": {
+      "eng_latn": "The Statue of Liberty is located in",
+      "fra_latn": "La statue de la Liberté est située à",
+      "deu_latn": "Die Freiheitsstatue befindet sich in",
+      "spa_latn": "La Estatua de la Libertad se encuentra en",
+      "zho_hans": "自由女神像位于"
+    },
+    "answer": {
+      "eng_latn": "New York",
+      "fra_latn": "New York",
+      "deu_latn": "New York",
+      "spa_latn": "Nueva York",
+      "zho_hans": "纽约"
+    }
+  },
+  {
+    "id": "empire_state",
+    "prompt": {
+      "eng_latn": "The Empire State Building is located in",
+      "fra_latn": "L'Empire State Building est situé à",
+      "deu_latn": "Das Empire State Building befindet sich in",
+      "spa_latn": "El Empire State Building se encuentra en",
+      "zho_hans": "帝国大厦位于"
+    },
+    "answer": {
+      "eng_latn": "New York",
+      "fra_latn": "New York",
+      "deu_latn": "New York",
+      "spa_latn": "Nueva York",
+      "zho_hans": "纽约"
+    }
+  },
+  {
+    "id": "kremlin",
+    "prompt": {
+      "eng_latn": "The Kremlin is located in",
+      "fra_latn": "Le Kremlin est situé à",
+      "deu_latn": "Der Kreml befindet sich in",
+      "spa_latn": "El Kremlin se encuentra en",
+      "zho_hans": "克里姆林宫位于"
+    },
+    "answer": {
+      "eng_latn": "Moscow",
+      "fra_latn": "Moscou",
+      "deu_latn": "Moskau",
+      "spa_latn": "Moscú",
+      "zho_hans": "莫斯科"
+    }
+  },
+  {
+    "id": "red_square",
+    "prompt": {
+      "eng_latn": "Red Square is located in",
+      "fra_latn": "La place Rouge est située à",
+      "deu_latn": "Der Rote Platz befindet sich in",
+      "spa_latn": "La Plaza Roja se encuentra en",
+      "zho_hans": "红场位于"
+    },
+    "answer": {
+      "eng_latn": "Moscow",
+      "fra_latn": "Moscou",
+      "deu_latn": "Moskau",
+      "spa_latn": "Moscú",
+      "zho_hans": "莫斯科"
+    }
+  },
+  {
+    "id": "forbidden_city",
+    "prompt": {
+      "eng_latn": "The Forbidden City is located in",
+      "fra_latn": "La Cité interdite est située à",
+      "deu_latn": "Die Verbotene Stadt befindet sich in",
+      "spa_latn": "La Ciudad Prohibida se encuentra en",
+      "zho_hans": "故宫位于"
+    },
+    "answer": {
+      "eng_latn": "Beijing",
+      "fra_latn": "Pékin",
+      "deu_latn": "Peking",
+      "spa_latn": "Pekín",
+      "zho_hans": "北京"
+    }
+  },
+  {
+    "id": "tiananmen",
+    "prompt": {
+      "eng_latn": "Tiananmen Square is located in",
+      "fra_latn": "La place Tian'anmen est située à",
+      "deu_latn": "Der Tian'anmen-Platz befindet sich in",
+      "spa_latn": "La plaza de Tiananmén se encuentra en",
+      "zho_hans": "天安门广场位于"
+    },
+    "answer": {
+      "eng_latn": "Beijing",
+      "fra_latn": "Pékin",
+      "deu_latn": "Peking",
+      "spa_latn": "Pekín",
+      "zho_hans": "北京"
+    }
+  },
+  {
+    "id": "acropolis",
+    "prompt": {
+      "eng_latn": "The Acropolis is located in",
+      "fra_latn": "L'Acropole est située à",
+      "deu_latn": "Die Akropolis befindet sich in",
+      "spa_latn": "La Acrópolis se encuentra en"
+    },
+    "answer": {
+      "eng_latn": "Athens",
+      "fra_latn": "Athènes",
+      "deu_latn": "Athen",
+      "spa_latn": "Atenas"
+    }
+  },
+  {
+    "id": "taj_mahal",
+    "prompt": {
+      "eng_latn": "The Taj Mahal is located in",
+      "fra_latn": "Le Taj Mahal est situé à",
+      "deu_latn": "Das Taj Mahal befindet sich in",
+      "spa_latn": "El Taj Mahal se encuentra en",
+      "zho_hans": "泰姬陵位于"
+    },
+    "answer": {
+      "eng_latn": "Agra",
+      "fra_latn": "Agra",
+      "deu_latn": "Agra",
+      "spa_latn": "Agra",
+      "zho_hans": "阿格拉"
+    }
+  },
+  {
+    "id": "golden_gate",
+    "prompt": {
+      "eng_latn": "The Golden Gate Bridge is located in",
+      "fra_latn": "Le Golden Gate Bridge est situé à",
+      "deu_latn": "Die Golden Gate Bridge befindet sich in",
+      "spa_latn": "El puente Golden Gate se encuentra en",
+      "zho_hans": "金门大桥位于"
+    },
+    "answer": {
+      "eng_latn": "San Francisco",
+      "fra_latn": "San Francisco",
+      "deu_latn": "San Francisco",
+      "spa_latn": "San Francisco",
+      "zho_hans": "旧金山"
+    }
+  },
+  {
+    "id": "hagia_sophia",
+    "prompt": {
+      "eng_latn": "Hagia Sophia is located in",
+      "fra_latn": "Sainte-Sophie est située à",
+      "deu_latn": "Die Hagia Sophia befindet sich in",
+      "spa_latn": "Santa Sofía se encuentra en",
+      "zho_hans": "圣索菲亚大教堂位于"
+    },
+    "answer": {
+      "eng_latn": "Istanbul",
+      "fra_latn": "Istanbul",
+      "deu_latn": "Istanbul",
+      "spa_latn": "Estambul",
+      "zho_hans": "伊斯坦布尔"
+    }
+  },
+  {
+    "id": "burj_khalifa",
+    "prompt": {
+      "eng_latn": "The Burj Khalifa is located in",
+      "fra_latn": "Le Burj Khalifa est situé à",
+      "deu_latn": "Der Burj Khalifa befindet sich in",
+      "spa_latn": "El Burj Khalifa se encuentra en",
+      "zho_hans": "哈利法塔位于"
+    },
+    "answer": {
+      "eng_latn": "Dubai",
+      "fra_latn": "Dubaï",
+      "deu_latn": "Dubai",
+      "spa_latn": "Dubái",
+      "zho_hans": "迪拜"
+    }
+  },
+  {
+    "id": "christ_redeemer",
+    "prompt": {
+      "eng_latn": "Christ the Redeemer is located in",
+      "fra_latn": "Le Christ Rédempteur est situé à",
+      "deu_latn": "Die Christusstatue befindet sich in",
+      "spa_latn": "El Cristo Redentor se encuentra en",
+      "zho_hans": "救世基督像位于"
+    },
+    "answer": {
+      "eng_latn": "Rio de Janeiro",
+      "fra_latn": "Rio de Janeiro",
+      "deu_latn": "Rio de Janeiro",
+      "spa_latn": "Río de Janeiro",
+      "zho_hans": "里约热内卢"
+    }
+  },
+  {
+    "id": "alhambra",
+    "prompt": {
+      "eng_latn": "The Alhambra is located in",
+      "fra_latn": "L'Alhambra est située à",
+      "deu_latn": "Die Alhambra befindet sich in",
+      "spa_latn": "La Alhambra se encuentra en",
+      "zho_hans": "阿尔罕布拉宫位于"
+    },
+    "answer": {
+      "eng_latn": "Granada",
+      "fra_latn": "Grenade",
+      "deu_latn": "Granada",
+      "spa_latn": "Granada",
+      "zho_hans": "格拉纳达"
+    }
+  },
+  {
+    "id": "prado",
+    "prompt": {
+      "eng_latn": "The Prado Museum is located in",
+      "fra_latn": "Le musée du Prado est situé à",
+      "deu_latn": "Das Prado-Museum befindet sich in",
+      "spa_latn": "El Museo del Prado se encuentra en",
+      "zho_hans": "普拉多博物馆位于"
+    },
+    "answer": {
+      "eng_latn": "Madrid",
+      "fra_latn": "Madrid",
+      "deu_latn": "Madrid",
+      "spa_latn": "Madrid",
+      "zho_hans": "马德里"
+    }
+  }
+]

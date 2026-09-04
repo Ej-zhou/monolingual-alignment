@@ -1,0 +1,3 @@
+model_a,model_b,lang_a,lang_b,setting,layer,cka_matched,cka_shuffled
+SJTU-CL/Zh-Pythia-1.4B,speakleash/Bielik-1.5B-v3,zho_hans,pol_latn,sgpt,first,0.4232778072551436,0.24420499226174477
+SJTU-CL/Zh-Pythia-1.4B,speakleash/Bielik-1.5B-v3,zho_hans,pol_latn,sgpt,last,0.6060089253976122,0.11583286552341589

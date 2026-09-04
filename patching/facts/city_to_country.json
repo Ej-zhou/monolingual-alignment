@@ -1,0 +1,496 @@
+[
+  {
+    "id": "france",
+    "prompt": {
+      "eng_latn": "Paris is the capital of",
+      "fra_latn": "Paris est la capitale de la",
+      "deu_latn": "Paris ist die Hauptstadt von",
+      "spa_latn": "París es la capital de",
+      "zho_hans": "巴黎所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "France",
+      "fra_latn": "France",
+      "deu_latn": "Frankreich",
+      "spa_latn": "Francia",
+      "zho_hans": "法国"
+    }
+  },
+  {
+    "id": "germany",
+    "prompt": {
+      "eng_latn": "Berlin is the capital of",
+      "deu_latn": "Berlin ist die Hauptstadt von",
+      "spa_latn": "Berlín es la capital de",
+      "zho_hans": "柏林所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Germany",
+      "deu_latn": "Deutschland",
+      "spa_latn": "Alemania",
+      "zho_hans": "德国"
+    }
+  },
+  {
+    "id": "japan",
+    "prompt": {
+      "eng_latn": "Tokyo is the capital of",
+      "fra_latn": "Tokyo est la capitale du",
+      "deu_latn": "Tokio ist die Hauptstadt von",
+      "spa_latn": "Tokio es la capital de",
+      "zho_hans": "东京所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Japan",
+      "fra_latn": "Japon",
+      "deu_latn": "Japan",
+      "spa_latn": "Japón",
+      "zho_hans": "日本"
+    }
+  },
+  {
+    "id": "china",
+    "prompt": {
+      "eng_latn": "Beijing is the capital of",
+      "fra_latn": "Pékin est la capitale de la",
+      "deu_latn": "Peking ist die Hauptstadt von",
+      "spa_latn": "Pekín es la capital de",
+      "zho_hans": "北京所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "China",
+      "fra_latn": "Chine",
+      "deu_latn": "China",
+      "spa_latn": "China",
+      "zho_hans": "中国"
+    }
+  },
+  {
+    "id": "russia",
+    "prompt": {
+      "eng_latn": "Moscow is the capital of",
+      "fra_latn": "Moscou est la capitale de la",
+      "deu_latn": "Moskau ist die Hauptstadt von",
+      "spa_latn": "Moscú es la capital de",
+      "zho_hans": "莫斯科所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Russia",
+      "fra_latn": "Russie",
+      "deu_latn": "Russland",
+      "spa_latn": "Rusia",
+      "zho_hans": "俄罗斯"
+    }
+  },
+  {
+    "id": "spain",
+    "prompt": {
+      "eng_latn": "Madrid is the capital of",
+      "deu_latn": "Madrid ist die Hauptstadt von",
+      "spa_latn": "Madrid es la capital de",
+      "zho_hans": "马德里所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Spain",
+      "deu_latn": "Spanien",
+      "spa_latn": "España",
+      "zho_hans": "西班牙"
+    }
+  },
+  {
+    "id": "italy",
+    "prompt": {
+      "eng_latn": "Rome is the capital of",
+      "deu_latn": "Rom ist die Hauptstadt von",
+      "spa_latn": "Roma es la capital de",
+      "zho_hans": "罗马所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Italy",
+      "deu_latn": "Italien",
+      "spa_latn": "Italia",
+      "zho_hans": "意大利"
+    }
+  },
+  {
+    "id": "egypt",
+    "prompt": {
+      "eng_latn": "Cairo is the capital of",
+      "deu_latn": "Kairo ist die Hauptstadt von",
+      "spa_latn": "El Cairo es la capital de",
+      "zho_hans": "开罗所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Egypt",
+      "deu_latn": "Ägypten",
+      "spa_latn": "Egipto",
+      "zho_hans": "埃及"
+    }
+  },
+  {
+    "id": "canada",
+    "prompt": {
+      "eng_latn": "Ottawa is the capital of",
+      "fra_latn": "Ottawa est la capitale du",
+      "deu_latn": "Ottawa ist die Hauptstadt von",
+      "spa_latn": "Ottawa es la capital de",
+      "zho_hans": "渥太华所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Canada",
+      "fra_latn": "Canada",
+      "deu_latn": "Kanada",
+      "spa_latn": "Canadá",
+      "zho_hans": "加拿大"
+    }
+  },
+  {
+    "id": "greece",
+    "prompt": {
+      "eng_latn": "Athens is the capital of",
+      "fra_latn": "Athènes est la capitale de la",
+      "deu_latn": "Athen ist die Hauptstadt von",
+      "spa_latn": "Atenas es la capital de",
+      "zho_hans": "雅典所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Greece",
+      "fra_latn": "Grèce",
+      "deu_latn": "Griechenland",
+      "spa_latn": "Grecia",
+      "zho_hans": "希腊"
+    }
+  },
+  {
+    "id": "portugal",
+    "prompt": {
+      "eng_latn": "Lisbon is the capital of",
+      "fra_latn": "Lisbonne est la capitale du",
+      "deu_latn": "Lissabon ist die Hauptstadt von",
+      "spa_latn": "Lisboa es la capital de",
+      "zho_hans": "里斯本所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Portugal",
+      "fra_latn": "Portugal",
+      "deu_latn": "Portugal",
+      "spa_latn": "Portugal",
+      "zho_hans": "葡萄牙"
+    }
+  },
+  {
+    "id": "sweden",
+    "prompt": {
+      "eng_latn": "Stockholm is the capital of",
+      "fra_latn": "Stockholm est la capitale de la",
+      "deu_latn": "Stockholm ist die Hauptstadt von",
+      "spa_latn": "Estocolmo es la capital de",
+      "zho_hans": "斯德哥尔摩所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Sweden",
+      "fra_latn": "Suède",
+      "deu_latn": "Schweden",
+      "spa_latn": "Suecia",
+      "zho_hans": "瑞典"
+    }
+  },
+  {
+    "id": "norway",
+    "prompt": {
+      "eng_latn": "Oslo is the capital of",
+      "fra_latn": "Oslo est la capitale de la",
+      "deu_latn": "Oslo ist die Hauptstadt von",
+      "spa_latn": "Oslo es la capital de",
+      "zho_hans": "奥斯陆所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Norway",
+      "fra_latn": "Norvège",
+      "deu_latn": "Norwegen",
+      "spa_latn": "Noruega",
+      "zho_hans": "挪威"
+    }
+  },
+  {
+    "id": "denmark",
+    "prompt": {
+      "eng_latn": "Copenhagen is the capital of",
+      "fra_latn": "Copenhague est la capitale du",
+      "deu_latn": "Kopenhagen ist die Hauptstadt von",
+      "spa_latn": "Copenhague es la capital de",
+      "zho_hans": "哥本哈根所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Denmark",
+      "fra_latn": "Danemark",
+      "deu_latn": "Dänemark",
+      "spa_latn": "Dinamarca",
+      "zho_hans": "丹麦"
+    }
+  },
+  {
+    "id": "poland",
+    "prompt": {
+      "eng_latn": "Warsaw is the capital of",
+      "fra_latn": "Varsovie est la capitale de la",
+      "deu_latn": "Warschau ist die Hauptstadt von",
+      "spa_latn": "Varsovia es la capital de",
+      "zho_hans": "华沙所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Poland",
+      "fra_latn": "Pologne",
+      "deu_latn": "Polen",
+      "spa_latn": "Polonia",
+      "zho_hans": "波兰"
+    }
+  },
+  {
+    "id": "turkey",
+    "prompt": {
+      "eng_latn": "Ankara is the capital of",
+      "fra_latn": "Ankara est la capitale de la",
+      "deu_latn": "Ankara ist die Hauptstadt der",
+      "spa_latn": "Ankara es la capital de",
+      "zho_hans": "安卡拉所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Turkey",
+      "fra_latn": "Turquie",
+      "deu_latn": "Türkei",
+      "spa_latn": "Turquía",
+      "zho_hans": "土耳其"
+    }
+  },
+  {
+    "id": "thailand",
+    "prompt": {
+      "eng_latn": "Bangkok is the capital of",
+      "fra_latn": "Bangkok est la capitale de la",
+      "deu_latn": "Bangkok ist die Hauptstadt von",
+      "spa_latn": "Bangkok es la capital de",
+      "zho_hans": "曼谷所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Thailand",
+      "fra_latn": "Thaïlande",
+      "deu_latn": "Thailand",
+      "spa_latn": "Tailandia",
+      "zho_hans": "泰国"
+    }
+  },
+  {
+    "id": "iran",
+    "prompt": {
+      "eng_latn": "Tehran is the capital of",
+      "deu_latn": "Teheran ist die Hauptstadt des",
+      "spa_latn": "Teherán es la capital de",
+      "zho_hans": "德黑兰所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Iran",
+      "deu_latn": "Iran",
+      "spa_latn": "Irán",
+      "zho_hans": "伊朗"
+    }
+  },
+  {
+    "id": "australia",
+    "prompt": {
+      "eng_latn": "Canberra is the capital of",
+      "deu_latn": "Canberra ist die Hauptstadt von",
+      "spa_latn": "Canberra es la capital de",
+      "zho_hans": "堪培拉所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Australia",
+      "deu_latn": "Australien",
+      "spa_latn": "Australia",
+      "zho_hans": "澳大利亚"
+    }
+  },
+  {
+    "id": "vietnam",
+    "prompt": {
+      "eng_latn": "Hanoi is the capital of",
+      "fra_latn": "Hanoï est la capitale du",
+      "deu_latn": "Hanoi ist die Hauptstadt von",
+      "spa_latn": "Hanói es la capital de",
+      "zho_hans": "河内所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Vietnam",
+      "fra_latn": "Vietnam",
+      "deu_latn": "Vietnam",
+      "spa_latn": "Vietnam",
+      "zho_hans": "越南"
+    }
+  },
+  {
+    "id": "belgium",
+    "prompt": {
+      "eng_latn": "Brussels is the capital of",
+      "fra_latn": "Bruxelles est la capitale de la",
+      "deu_latn": "Brüssel ist die Hauptstadt von",
+      "spa_latn": "Bruselas es la capital de",
+      "zho_hans": "布鲁塞尔所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Belgium",
+      "fra_latn": "Belgique",
+      "deu_latn": "Belgien",
+      "spa_latn": "Bélgica",
+      "zho_hans": "比利时"
+    }
+  },
+  {
+    "id": "austria",
+    "prompt": {
+      "eng_latn": "Vienna is the capital of",
+      "deu_latn": "Wien ist die Hauptstadt von",
+      "spa_latn": "Viena es la capital de",
+      "zho_hans": "维也纳所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Austria",
+      "deu_latn": "Österreich",
+      "spa_latn": "Austria",
+      "zho_hans": "奥地利"
+    }
+  },
+  {
+    "id": "switzerland",
+    "prompt": {
+      "eng_latn": "Bern is the capital of",
+      "fra_latn": "Berne est la capitale de la",
+      "deu_latn": "Bern ist die Hauptstadt der",
+      "spa_latn": "Berna es la capital de",
+      "zho_hans": "伯尔尼所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Switzerland",
+      "fra_latn": "Suisse",
+      "deu_latn": "Schweiz",
+      "spa_latn": "Suiza",
+      "zho_hans": "瑞士"
+    }
+  },
+  {
+    "id": "netherlands",
+    "prompt": {
+      "eng_latn": "Amsterdam is the capital of the",
+      "fra_latn": "Amsterdam est la capitale des",
+      "deu_latn": "Amsterdam ist die Hauptstadt der",
+      "spa_latn": "Ámsterdam es la capital de los",
+      "zho_hans": "阿姆斯特丹所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Netherlands",
+      "fra_latn": "Pays-Bas",
+      "deu_latn": "Niederlande",
+      "spa_latn": "Países Bajos",
+      "zho_hans": "荷兰"
+    }
+  },
+  {
+    "id": "finland",
+    "prompt": {
+      "eng_latn": "Helsinki is the capital of",
+      "fra_latn": "Helsinki est la capitale de la",
+      "deu_latn": "Helsinki ist die Hauptstadt von",
+      "spa_latn": "Helsinki es la capital de",
+      "zho_hans": "赫尔辛基所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Finland",
+      "fra_latn": "Finlande",
+      "deu_latn": "Finnland",
+      "spa_latn": "Finlandia",
+      "zho_hans": "芬兰"
+    }
+  },
+  {
+    "id": "cuba",
+    "prompt": {
+      "eng_latn": "Havana is the capital of",
+      "fra_latn": "La Havane est la capitale de",
+      "deu_latn": "Havanna ist die Hauptstadt von",
+      "spa_latn": "La Habana es la capital de",
+      "zho_hans": "哈瓦那所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Cuba",
+      "fra_latn": "Cuba",
+      "deu_latn": "Kuba",
+      "spa_latn": "Cuba",
+      "zho_hans": "古巴"
+    }
+  },
+  {
+    "id": "hungary",
+    "prompt": {
+      "eng_latn": "Budapest is the capital of",
+      "fra_latn": "Budapest est la capitale de la",
+      "deu_latn": "Budapest ist die Hauptstadt von",
+      "spa_latn": "Budapest es la capital de",
+      "zho_hans": "布达佩斯所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Hungary",
+      "fra_latn": "Hongrie",
+      "deu_latn": "Ungarn",
+      "spa_latn": "Hungría",
+      "zho_hans": "匈牙利"
+    }
+  },
+  {
+    "id": "romania",
+    "prompt": {
+      "eng_latn": "Bucharest is the capital of",
+      "fra_latn": "Bucarest est la capitale de la",
+      "deu_latn": "Bukarest ist die Hauptstadt von",
+      "spa_latn": "Bucarest es la capital de",
+      "zho_hans": "布加勒斯特所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Romania",
+      "fra_latn": "Roumanie",
+      "deu_latn": "Rumänien",
+      "spa_latn": "Rumanía",
+      "zho_hans": "罗马尼亚"
+    }
+  },
+  {
+    "id": "ireland",
+    "prompt": {
+      "eng_latn": "Dublin is the capital of",
+      "deu_latn": "Dublin ist die Hauptstadt von",
+      "spa_latn": "Dublín es la capital de",
+      "zho_hans": "都柏林所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "Ireland",
+      "deu_latn": "Irland",
+      "spa_latn": "Irlanda",
+      "zho_hans": "爱尔兰"
+    }
+  },
+  {
+    "id": "south_korea",
+    "prompt": {
+      "eng_latn": "Seoul is the capital of",
+      "fra_latn": "Séoul est la capitale de la",
+      "deu_latn": "Seoul ist die Hauptstadt von",
+      "spa_latn": "Seúl es la capital de",
+      "zho_hans": "首尔所在的国家是"
+    },
+    "answer": {
+      "eng_latn": "South Korea",
+      "fra_latn": "Corée du Sud",
+      "deu_latn": "Südkorea",
+      "spa_latn": "Corea del Sur",
+      "zho_hans": "韩国"
+    }
+  }
+]

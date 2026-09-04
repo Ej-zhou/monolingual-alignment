@@ -1,0 +1,15 @@
+# GPU experiments (all sections)
+torch>=2.1
+transformers>=4.35,<5      # Goldfish models load with transformers 4.x
+datasets>=2.14
+numpy
+pandas
+scipy
+tqdm
+simalign                    # word alignment for the token-aligned CKA setting
+# Plots and tables (no GPU needed)
+matplotlib
+seaborn
+adjustText
+statsmodels
+tabulate

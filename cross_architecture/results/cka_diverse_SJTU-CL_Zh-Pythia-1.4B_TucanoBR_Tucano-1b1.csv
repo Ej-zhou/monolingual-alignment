@@ -1,0 +1,3 @@
+model_a,model_b,lang_a,lang_b,setting,layer,cka_matched,cka_shuffled
+SJTU-CL/Zh-Pythia-1.4B,TucanoBR/Tucano-1b1,zho_hans,por_latn,sgpt,first,0.6531101941129142,0.5281451224817417
+SJTU-CL/Zh-Pythia-1.4B,TucanoBR/Tucano-1b1,zho_hans,por_latn,sgpt,last,0.6871159297208967,0.17868529287973306

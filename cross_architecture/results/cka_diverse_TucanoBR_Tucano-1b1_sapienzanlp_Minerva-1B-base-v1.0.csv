@@ -1,0 +1,3 @@
+model_a,model_b,lang_a,lang_b,setting,layer,cka_matched,cka_shuffled
+TucanoBR/Tucano-1b1,sapienzanlp/Minerva-1B-base-v1.0,por_latn,ita_latn,sgpt,first,0.626810218560999,0.4891817686178912
+TucanoBR/Tucano-1b1,sapienzanlp/Minerva-1B-base-v1.0,por_latn,ita_latn,sgpt,last,0.8032089189353965,0.2489793045165579

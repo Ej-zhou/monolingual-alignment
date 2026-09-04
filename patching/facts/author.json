@@ -1,0 +1,206 @@
+[
+  {
+    "id": "romeo_juliet",
+    "prompt": {
+      "eng_latn": "The author of Romeo and Juliet is",
+      "fra_latn": "L'auteur de Roméo et Juliette est",
+      "deu_latn": "Der Autor von Romeo und Julia ist",
+      "spa_latn": "El autor de Romeo y Julieta es",
+      "zho_hans": "罗密欧与朱丽叶的作者是"
+    },
+    "answer": {
+      "eng_latn": "Shakespeare",
+      "fra_latn": "Shakespeare",
+      "deu_latn": "Shakespeare",
+      "spa_latn": "Shakespeare",
+      "zho_hans": "莎士比亚"
+    }
+  },
+  {
+    "id": "don_quixote",
+    "prompt": {
+      "eng_latn": "The author of Don Quixote is",
+      "fra_latn": "L'auteur de Don Quichotte est",
+      "deu_latn": "Der Autor von Don Quijote ist",
+      "spa_latn": "El autor de Don Quijote es",
+      "zho_hans": "堂吉诃德的作者是"
+    },
+    "answer": {
+      "eng_latn": "Cervantes",
+      "fra_latn": "Cervantès",
+      "deu_latn": "Cervantes",
+      "spa_latn": "Cervantes",
+      "zho_hans": "塞万提斯"
+    }
+  },
+  {
+    "id": "war_and_peace",
+    "prompt": {
+      "eng_latn": "The author of War and Peace is",
+      "fra_latn": "L'auteur de La Guerre et la Paix est",
+      "deu_latn": "Der Autor von Krieg und Frieden ist",
+      "spa_latn": "El autor de Guerra y paz es",
+      "zho_hans": "战争与和平的作者是"
+    },
+    "answer": {
+      "eng_latn": "Tolstoy",
+      "fra_latn": "Tolstoï",
+      "deu_latn": "Tolstoi",
+      "spa_latn": "Tolstói",
+      "zho_hans": "托尔斯泰"
+    }
+  },
+  {
+    "id": "les_miserables",
+    "prompt": {
+      "eng_latn": "The author of Les Misérables is",
+      "fra_latn": "L'auteur des Misérables est",
+      "deu_latn": "Der Autor von Les Misérables ist",
+      "spa_latn": "El autor de Los miserables es",
+      "zho_hans": "悲惨世界的作者是"
+    },
+    "answer": {
+      "eng_latn": "Victor Hugo",
+      "fra_latn": "Victor Hugo",
+      "deu_latn": "Victor Hugo",
+      "spa_latn": "Victor Hugo",
+      "zho_hans": "雨果"
+    }
+  },
+  {
+    "id": "faust",
+    "prompt": {
+      "eng_latn": "The author of Faust is",
+      "fra_latn": "L'auteur de Faust est",
+      "deu_latn": "Der Autor von Faust ist",
+      "spa_latn": "El autor de Fausto es",
+      "zho_hans": "浮士德的作者是"
+    },
+    "answer": {
+      "eng_latn": "Goethe",
+      "fra_latn": "Goethe",
+      "deu_latn": "Goethe",
+      "spa_latn": "Goethe",
+      "zho_hans": "歌德"
+    }
+  },
+  {
+    "id": "harry_potter",
+    "prompt": {
+      "eng_latn": "The author of Harry Potter is",
+      "fra_latn": "L'auteur de Harry Potter est",
+      "deu_latn": "Der Autor von Harry Potter ist",
+      "spa_latn": "El autor de Harry Potter es",
+      "zho_hans": "哈利·波特的作者是"
+    },
+    "answer": {
+      "eng_latn": "Rowling",
+      "fra_latn": "Rowling",
+      "deu_latn": "Rowling",
+      "spa_latn": "Rowling",
+      "zho_hans": "罗琳"
+    }
+  },
+  {
+    "id": "little_prince",
+    "prompt": {
+      "eng_latn": "The author of The Little Prince is",
+      "fra_latn": "L'auteur du Petit Prince est",
+      "deu_latn": "Der Autor des Kleinen Prinzen ist",
+      "spa_latn": "El autor de El Principito es",
+      "zho_hans": "小王子的作者是"
+    },
+    "answer": {
+      "eng_latn": "Saint-Exupéry",
+      "fra_latn": "Saint-Exupéry",
+      "deu_latn": "Saint-Exupéry",
+      "spa_latn": "Saint-Exupéry",
+      "zho_hans": "圣埃克苏佩里"
+    }
+  },
+  {
+    "id": "crime_punishment",
+    "prompt": {
+      "eng_latn": "The author of Crime and Punishment is",
+      "fra_latn": "L'auteur de Crime et Châtiment est",
+      "deu_latn": "Der Autor von Schuld und Sühne ist",
+      "spa_latn": "El autor de Crimen y castigo es",
+      "zho_hans": "罪与罚的作者是"
+    },
+    "answer": {
+      "eng_latn": "Dostoevsky",
+      "fra_latn": "Dostoïevski",
+      "deu_latn": "Dostojewski",
+      "spa_latn": "Dostoievski",
+      "zho_hans": "陀思妥耶夫斯基"
+    }
+  },
+  {
+    "id": "odyssey",
+    "prompt": {
+      "eng_latn": "The author of the Odyssey is",
+      "fra_latn": "L'auteur de l'Odyssée est",
+      "deu_latn": "Der Autor der Odyssee ist",
+      "spa_latn": "El autor de la Odisea es",
+      "zho_hans": "奥德赛的作者是"
+    },
+    "answer": {
+      "eng_latn": "Homer",
+      "fra_latn": "Homère",
+      "deu_latn": "Homer",
+      "spa_latn": "Homero",
+      "zho_hans": "荷马"
+    }
+  },
+  {
+    "id": "pride_prejudice",
+    "prompt": {
+      "eng_latn": "The author of Pride and Prejudice is",
+      "fra_latn": "L'auteur d'Orgueil et Préjugés est",
+      "deu_latn": "Der Autor von Stolz und Vorurteil ist",
+      "spa_latn": "El autor de Orgullo y prejuicio es",
+      "zho_hans": "傲慢与偏见的作者是"
+    },
+    "answer": {
+      "eng_latn": "Jane Austen",
+      "fra_latn": "Jane Austen",
+      "deu_latn": "Jane Austen",
+      "spa_latn": "Jane Austen",
+      "zho_hans": "奥斯汀"
+    }
+  },
+  {
+    "id": "hundred_years",
+    "prompt": {
+      "eng_latn": "The author of One Hundred Years of Solitude is",
+      "fra_latn": "L'auteur de Cent Ans de solitude est",
+      "deu_latn": "Der Autor von Hundert Jahre Einsamkeit ist",
+      "spa_latn": "El autor de Cien años de soledad es",
+      "zho_hans": "百年孤独的作者是"
+    },
+    "answer": {
+      "eng_latn": "García Márquez",
+      "fra_latn": "García Márquez",
+      "deu_latn": "García Márquez",
+      "spa_latn": "García Márquez",
+      "zho_hans": "马尔克斯"
+    }
+  },
+  {
+    "id": "divine_comedy",
+    "prompt": {
+      "eng_latn": "The author of the Divine Comedy is",
+      "fra_latn": "L'auteur de la Divine Comédie est",
+      "deu_latn": "Der Autor der Göttlichen Komödie ist",
+      "spa_latn": "El autor de la Divina Comedia es",
+      "zho_hans": "神曲的作者是"
+    },
+    "answer": {
+      "eng_latn": "Dante",
+      "fra_latn": "Dante",
+      "deu_latn": "Dante",
+      "spa_latn": "Dante",
+      "zho_hans": "但丁"
+    }
+  }
+]

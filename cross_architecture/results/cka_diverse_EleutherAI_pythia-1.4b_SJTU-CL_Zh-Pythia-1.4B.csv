@@ -1,0 +1,3 @@
+model_a,model_b,lang_a,lang_b,setting,layer,cka_matched,cka_shuffled
+EleutherAI/pythia-1.4b,SJTU-CL/Zh-Pythia-1.4B,eng_latn,zho_hans,sgpt,first,0.6846545084594668,0.48760671990246557
+EleutherAI/pythia-1.4b,SJTU-CL/Zh-Pythia-1.4B,eng_latn,zho_hans,sgpt,last,0.7008873733629435,0.1633704479543061

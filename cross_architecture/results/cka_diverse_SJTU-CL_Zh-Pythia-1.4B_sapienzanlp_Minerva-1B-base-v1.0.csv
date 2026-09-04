@@ -1,0 +1,3 @@
+model_a,model_b,lang_a,lang_b,setting,layer,cka_matched,cka_shuffled
+SJTU-CL/Zh-Pythia-1.4B,sapienzanlp/Minerva-1B-base-v1.0,zho_hans,ita_latn,sgpt,first,0.6391043406443918,0.46287175365162736
+SJTU-CL/Zh-Pythia-1.4B,sapienzanlp/Minerva-1B-base-v1.0,zho_hans,ita_latn,sgpt,last,0.7002034211658431,0.2072361680230657

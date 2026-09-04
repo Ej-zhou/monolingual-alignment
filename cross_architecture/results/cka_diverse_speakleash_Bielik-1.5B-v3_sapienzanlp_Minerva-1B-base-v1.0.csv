@@ -1,0 +1,3 @@
+model_a,model_b,lang_a,lang_b,setting,layer,cka_matched,cka_shuffled
+speakleash/Bielik-1.5B-v3,sapienzanlp/Minerva-1B-base-v1.0,pol_latn,ita_latn,sgpt,first,0.41949948336707654,0.21958738398360322
+speakleash/Bielik-1.5B-v3,sapienzanlp/Minerva-1B-base-v1.0,pol_latn,ita_latn,sgpt,last,0.6276788414977965,0.17235864551212157

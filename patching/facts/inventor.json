@@ -1,0 +1,90 @@
+[
+  {
+    "id": "printing_press",
+    "prompt": {
+      "eng_latn": "The inventor of the printing press is",
+      "deu_latn": "Der Erfinder des Buchdrucks ist"
+    },
+    "answer": {
+      "eng_latn": "Gutenberg",
+      "deu_latn": "Gutenberg"
+    }
+  },
+  {
+    "id": "telephone",
+    "prompt": {
+      "eng_latn": "The inventor of the telephone is",
+      "deu_latn": "Der Erfinder des Telefons ist"
+    },
+    "answer": {
+      "eng_latn": "Bell",
+      "deu_latn": "Bell"
+    }
+  },
+  {
+    "id": "light_bulb",
+    "prompt": {
+      "eng_latn": "The inventor of the light bulb is",
+      "deu_latn": "Der Erfinder der Glühbirne ist"
+    },
+    "answer": {
+      "eng_latn": "Edison",
+      "deu_latn": "Edison"
+    }
+  },
+  {
+    "id": "dynamite",
+    "prompt": {
+      "eng_latn": "The inventor of dynamite is",
+      "deu_latn": "Der Erfinder des Dynamits ist"
+    },
+    "answer": {
+      "eng_latn": "Nobel",
+      "deu_latn": "Nobel"
+    }
+  },
+  {
+    "id": "automobile",
+    "prompt": {
+      "eng_latn": "The inventor of the automobile is",
+      "deu_latn": "Der Erfinder des Automobils ist"
+    },
+    "answer": {
+      "eng_latn": "Benz",
+      "deu_latn": "Benz"
+    }
+  },
+  {
+    "id": "steam_engine",
+    "prompt": {
+      "eng_latn": "The inventor of the steam engine is",
+      "deu_latn": "Der Erfinder der Dampfmaschine ist"
+    },
+    "answer": {
+      "eng_latn": "Watt",
+      "deu_latn": "Watt"
+    }
+  },
+  {
+    "id": "telegraph",
+    "prompt": {
+      "eng_latn": "The inventor of the telegraph is",
+      "deu_latn": "Der Erfinder des Telegrafen ist"
+    },
+    "answer": {
+      "eng_latn": "Morse",
+      "deu_latn": "Morse"
+    }
+  },
+  {
+    "id": "radio",
+    "prompt": {
+      "eng_latn": "The inventor of the radio is",
+      "deu_latn": "Der Erfinder des Radios ist"
+    },
+    "answer": {
+      "eng_latn": "Marconi",
+      "deu_latn": "Marconi"
+    }
+  }
+]

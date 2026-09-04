@@ -1,0 +1,10 @@
+lang,model,mean_nll,n_sentences
+arb_arab,goldfish-models/arb_arab_1000mb,4.682060,997
+deu_latn,goldfish-models/deu_latn_1000mb,4.087091,997
+eng_latn,goldfish-models/eng_latn_1000mb,4.142998,997
+fra_latn,goldfish-models/fra_latn_1000mb,3.416635,997
+hin_deva,goldfish-models/hin_deva_1000mb,4.157772,997
+jpn_jpan,goldfish-models/jpn_jpan_1000mb,4.736657,997
+rus_cyrl,goldfish-models/rus_cyrl_1000mb,4.069501,997
+spa_latn,goldfish-models/spa_latn_1000mb,3.872617,997
+zho_hans,goldfish-models/zho_hans_1000mb,4.921681,997

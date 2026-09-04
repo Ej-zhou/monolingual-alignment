@@ -1,0 +1,90 @@
+[
+  {
+    "id": "magic_flute",
+    "prompt": {
+      "eng_latn": "The composer of The Magic Flute is",
+      "deu_latn": "Der Komponist der Zauberflöte ist"
+    },
+    "answer": {
+      "eng_latn": "Mozart",
+      "deu_latn": "Mozart"
+    }
+  },
+  {
+    "id": "tristan_isolde",
+    "prompt": {
+      "eng_latn": "The composer of Tristan and Isolde is",
+      "deu_latn": "Der Komponist von Tristan und Isolde ist"
+    },
+    "answer": {
+      "eng_latn": "Wagner",
+      "deu_latn": "Wagner"
+    }
+  },
+  {
+    "id": "fuer_elise",
+    "prompt": {
+      "eng_latn": "The composer of Für Elise is",
+      "deu_latn": "Der Komponist von Für Elise ist"
+    },
+    "answer": {
+      "eng_latn": "Beethoven",
+      "deu_latn": "Beethoven"
+    }
+  },
+  {
+    "id": "four_seasons",
+    "prompt": {
+      "eng_latn": "The composer of The Four Seasons is",
+      "deu_latn": "Der Komponist der Vier Jahreszeiten ist"
+    },
+    "answer": {
+      "eng_latn": "Vivaldi",
+      "deu_latn": "Vivaldi"
+    }
+  },
+  {
+    "id": "carmen",
+    "prompt": {
+      "eng_latn": "The composer of Carmen is",
+      "deu_latn": "Der Komponist von Carmen ist"
+    },
+    "answer": {
+      "eng_latn": "Bizet",
+      "deu_latn": "Bizet"
+    }
+  },
+  {
+    "id": "swan_lake",
+    "prompt": {
+      "eng_latn": "The composer of Swan Lake is",
+      "deu_latn": "Der Komponist von Schwanensee ist"
+    },
+    "answer": {
+      "eng_latn": "Tchaikovsky",
+      "deu_latn": "Tschaikowski"
+    }
+  },
+  {
+    "id": "bolero",
+    "prompt": {
+      "eng_latn": "The composer of the Boléro is",
+      "deu_latn": "Der Komponist des Boléro ist"
+    },
+    "answer": {
+      "eng_latn": "Ravel",
+      "deu_latn": "Ravel"
+    }
+  },
+  {
+    "id": "messiah",
+    "prompt": {
+      "eng_latn": "The composer of Messiah is",
+      "deu_latn": "Der Komponist des Messias ist"
+    },
+    "answer": {
+      "eng_latn": "Handel",
+      "deu_latn": "Händel"
+    }
+  }
+]

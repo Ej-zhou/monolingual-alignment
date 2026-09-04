@@ -1,0 +1,376 @@
+[
+  {
+    "id": "france",
+    "prompt": {
+      "eng_latn": "France is located in",
+      "fra_latn": "La France est située en",
+      "deu_latn": "Frankreich liegt in",
+      "spa_latn": "Francia se encuentra en",
+      "zho_hans": "法国位于"
+    },
+    "answer": {
+      "eng_latn": "Europe",
+      "fra_latn": "Europe",
+      "deu_latn": "Europa",
+      "spa_latn": "Europa",
+      "zho_hans": "欧洲"
+    }
+  },
+  {
+    "id": "germany",
+    "prompt": {
+      "eng_latn": "Germany is located in",
+      "fra_latn": "L'Allemagne est située en",
+      "deu_latn": "Deutschland liegt in",
+      "spa_latn": "Alemania se encuentra en",
+      "zho_hans": "德国位于"
+    },
+    "answer": {
+      "eng_latn": "Europe",
+      "fra_latn": "Europe",
+      "deu_latn": "Europa",
+      "spa_latn": "Europa",
+      "zho_hans": "欧洲"
+    }
+  },
+  {
+    "id": "italy",
+    "prompt": {
+      "eng_latn": "Italy is located in",
+      "fra_latn": "L'Italie est située en",
+      "deu_latn": "Italien liegt in",
+      "spa_latn": "Italia se encuentra en",
+      "zho_hans": "意大利位于"
+    },
+    "answer": {
+      "eng_latn": "Europe",
+      "fra_latn": "Europe",
+      "deu_latn": "Europa",
+      "spa_latn": "Europa",
+      "zho_hans": "欧洲"
+    }
+  },
+  {
+    "id": "poland",
+    "prompt": {
+      "eng_latn": "Poland is located in",
+      "fra_latn": "La Pologne est située en",
+      "deu_latn": "Polen liegt in",
+      "spa_latn": "Polonia se encuentra en",
+      "zho_hans": "波兰位于"
+    },
+    "answer": {
+      "eng_latn": "Europe",
+      "fra_latn": "Europe",
+      "deu_latn": "Europa",
+      "spa_latn": "Europa",
+      "zho_hans": "欧洲"
+    }
+  },
+  {
+    "id": "china",
+    "prompt": {
+      "eng_latn": "China is located in",
+      "fra_latn": "La Chine est située en",
+      "deu_latn": "China liegt in",
+      "spa_latn": "China se encuentra en",
+      "zho_hans": "中国位于"
+    },
+    "answer": {
+      "eng_latn": "Asia",
+      "fra_latn": "Asie",
+      "deu_latn": "Asien",
+      "spa_latn": "Asia",
+      "zho_hans": "亚洲"
+    }
+  },
+  {
+    "id": "japan",
+    "prompt": {
+      "eng_latn": "Japan is located in",
+      "fra_latn": "Le Japon est situé en",
+      "deu_latn": "Japan liegt in",
+      "spa_latn": "Japón se encuentra en",
+      "zho_hans": "日本位于"
+    },
+    "answer": {
+      "eng_latn": "Asia",
+      "fra_latn": "Asie",
+      "deu_latn": "Asien",
+      "spa_latn": "Asia",
+      "zho_hans": "亚洲"
+    }
+  },
+  {
+    "id": "india",
+    "prompt": {
+      "eng_latn": "India is located in",
+      "fra_latn": "L'Inde est située en",
+      "deu_latn": "Indien liegt in",
+      "spa_latn": "La India se encuentra en",
+      "zho_hans": "印度位于"
+    },
+    "answer": {
+      "eng_latn": "Asia",
+      "fra_latn": "Asie",
+      "deu_latn": "Asien",
+      "spa_latn": "Asia",
+      "zho_hans": "亚洲"
+    }
+  },
+  {
+    "id": "thailand",
+    "prompt": {
+      "eng_latn": "Thailand is located in",
+      "fra_latn": "La Thaïlande est située en",
+      "deu_latn": "Thailand liegt in",
+      "spa_latn": "Tailandia se encuentra en",
+      "zho_hans": "泰国位于"
+    },
+    "answer": {
+      "eng_latn": "Asia",
+      "fra_latn": "Asie",
+      "deu_latn": "Asien",
+      "spa_latn": "Asia",
+      "zho_hans": "亚洲"
+    }
+  },
+  {
+    "id": "egypt",
+    "prompt": {
+      "eng_latn": "Egypt is located in",
+      "fra_latn": "L'Égypte est située en",
+      "deu_latn": "Ägypten liegt in",
+      "spa_latn": "Egipto se encuentra en",
+      "zho_hans": "埃及位于"
+    },
+    "answer": {
+      "eng_latn": "Africa",
+      "fra_latn": "Afrique",
+      "deu_latn": "Afrika",
+      "spa_latn": "África",
+      "zho_hans": "非洲"
+    }
+  },
+  {
+    "id": "nigeria",
+    "prompt": {
+      "eng_latn": "Nigeria is located in",
+      "fra_latn": "Le Nigeria est situé en",
+      "deu_latn": "Nigeria liegt in",
+      "spa_latn": "Nigeria se encuentra en",
+      "zho_hans": "尼日利亚位于"
+    },
+    "answer": {
+      "eng_latn": "Africa",
+      "fra_latn": "Afrique",
+      "deu_latn": "Afrika",
+      "spa_latn": "África",
+      "zho_hans": "非洲"
+    }
+  },
+  {
+    "id": "kenya",
+    "prompt": {
+      "eng_latn": "Kenya is located in",
+      "fra_latn": "Le Kenya est situé en",
+      "deu_latn": "Kenia liegt in",
+      "spa_latn": "Kenia se encuentra en",
+      "zho_hans": "肯尼亚位于"
+    },
+    "answer": {
+      "eng_latn": "Africa",
+      "fra_latn": "Afrique",
+      "deu_latn": "Afrika",
+      "spa_latn": "África",
+      "zho_hans": "非洲"
+    }
+  },
+  {
+    "id": "morocco",
+    "prompt": {
+      "eng_latn": "Morocco is located in",
+      "fra_latn": "Le Maroc est situé en",
+      "deu_latn": "Marokko liegt in",
+      "spa_latn": "Marruecos se encuentra en",
+      "zho_hans": "摩洛哥位于"
+    },
+    "answer": {
+      "eng_latn": "Africa",
+      "fra_latn": "Afrique",
+      "deu_latn": "Afrika",
+      "spa_latn": "África",
+      "zho_hans": "非洲"
+    }
+  },
+  {
+    "id": "canada",
+    "prompt": {
+      "eng_latn": "Canada is located in",
+      "fra_latn": "Le Canada est situé en",
+      "deu_latn": "Kanada liegt in",
+      "spa_latn": "Canadá se encuentra en",
+      "zho_hans": "加拿大位于"
+    },
+    "answer": {
+      "eng_latn": "North America",
+      "fra_latn": "Amérique du Nord",
+      "deu_latn": "Nordamerika",
+      "spa_latn": "América del Norte",
+      "zho_hans": "北美洲"
+    }
+  },
+  {
+    "id": "mexico",
+    "prompt": {
+      "eng_latn": "Mexico is located in",
+      "fra_latn": "Le Mexique est situé en",
+      "deu_latn": "Mexiko liegt in",
+      "spa_latn": "México se encuentra en",
+      "zho_hans": "墨西哥位于"
+    },
+    "answer": {
+      "eng_latn": "North America",
+      "fra_latn": "Amérique du Nord",
+      "deu_latn": "Nordamerika",
+      "spa_latn": "América del Norte",
+      "zho_hans": "北美洲"
+    }
+  },
+  {
+    "id": "cuba",
+    "prompt": {
+      "eng_latn": "Cuba is located in",
+      "fra_latn": "Cuba est située en",
+      "deu_latn": "Kuba liegt in",
+      "spa_latn": "Cuba se encuentra en",
+      "zho_hans": "古巴位于"
+    },
+    "answer": {
+      "eng_latn": "North America",
+      "fra_latn": "Amérique du Nord",
+      "deu_latn": "Nordamerika",
+      "spa_latn": "América del Norte",
+      "zho_hans": "北美洲"
+    }
+  },
+  {
+    "id": "brazil",
+    "prompt": {
+      "eng_latn": "Brazil is located in",
+      "fra_latn": "Le Brésil est situé en",
+      "deu_latn": "Brasilien liegt in",
+      "spa_latn": "Brasil se encuentra en",
+      "zho_hans": "巴西位于"
+    },
+    "answer": {
+      "eng_latn": "South America",
+      "fra_latn": "Amérique du Sud",
+      "deu_latn": "Südamerika",
+      "spa_latn": "América del Sur",
+      "zho_hans": "南美洲"
+    }
+  },
+  {
+    "id": "argentina",
+    "prompt": {
+      "eng_latn": "Argentina is located in",
+      "fra_latn": "L'Argentine est située en",
+      "deu_latn": "Argentinien liegt in",
+      "spa_latn": "Argentina se encuentra en",
+      "zho_hans": "阿根廷位于"
+    },
+    "answer": {
+      "eng_latn": "South America",
+      "fra_latn": "Amérique du Sud",
+      "deu_latn": "Südamerika",
+      "spa_latn": "América del Sur",
+      "zho_hans": "南美洲"
+    }
+  },
+  {
+    "id": "chile",
+    "prompt": {
+      "eng_latn": "Chile is located in",
+      "fra_latn": "Le Chili est situé en",
+      "deu_latn": "Chile liegt in",
+      "spa_latn": "Chile se encuentra en",
+      "zho_hans": "智利位于"
+    },
+    "answer": {
+      "eng_latn": "South America",
+      "fra_latn": "Amérique du Sud",
+      "deu_latn": "Südamerika",
+      "spa_latn": "América del Sur",
+      "zho_hans": "南美洲"
+    }
+  },
+  {
+    "id": "peru",
+    "prompt": {
+      "eng_latn": "Peru is located in",
+      "fra_latn": "Le Pérou est situé en",
+      "deu_latn": "Peru liegt in",
+      "spa_latn": "Perú se encuentra en",
+      "zho_hans": "秘鲁位于"
+    },
+    "answer": {
+      "eng_latn": "South America",
+      "fra_latn": "Amérique du Sud",
+      "deu_latn": "Südamerika",
+      "spa_latn": "América del Sur",
+      "zho_hans": "南美洲"
+    }
+  },
+  {
+    "id": "colombia",
+    "prompt": {
+      "eng_latn": "Colombia is located in",
+      "fra_latn": "La Colombie est située en",
+      "deu_latn": "Kolumbien liegt in",
+      "spa_latn": "Colombia se encuentra en",
+      "zho_hans": "哥伦比亚位于"
+    },
+    "answer": {
+      "eng_latn": "South America",
+      "fra_latn": "Amérique du Sud",
+      "deu_latn": "Südamerika",
+      "spa_latn": "América del Sur",
+      "zho_hans": "南美洲"
+    }
+  },
+  {
+    "id": "australia",
+    "prompt": {
+      "eng_latn": "Australia is located in",
+      "fra_latn": "L'Australie est située en",
+      "deu_latn": "Australien liegt in",
+      "spa_latn": "Australia se encuentra en",
+      "zho_hans": "澳大利亚位于"
+    },
+    "answer": {
+      "eng_latn": "Oceania",
+      "fra_latn": "Océanie",
+      "deu_latn": "Ozeanien",
+      "spa_latn": "Oceanía",
+      "zho_hans": "大洋洲"
+    }
+  },
+  {
+    "id": "new_zealand",
+    "prompt": {
+      "eng_latn": "New Zealand is located in",
+      "fra_latn": "La Nouvelle-Zélande est située en",
+      "deu_latn": "Neuseeland liegt in",
+      "spa_latn": "Nueva Zelanda se encuentra en",
+      "zho_hans": "新西兰位于"
+    },
+    "answer": {
+      "eng_latn": "Oceania",
+      "fra_latn": "Océanie",
+      "deu_latn": "Ozeanien",
+      "spa_latn": "Oceanía",
+      "zho_hans": "大洋洲"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+model_a,model_b,dataset,setting,layer,cka_matched,cka_shuffled
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,mean_pool,0,0.5659361638957658,0.15512880076079869
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,mean_pool,1,0.48334908232504536,0.13854242952335333
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,mean_pool,2,0.5286790810040364,0.14471675698301245
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,mean_pool,3,0.5375661345536448,0.10808181153128818
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,mean_pool,4,0.5411409169794889,0.08174241033353759
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,token_aligned,0,0.3969976216367133,0.013528033190565374
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,token_aligned,1,0.34761671816116047,0.012335973619832333
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,token_aligned,2,0.3680660690361464,0.010823872391871586
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,token_aligned,3,0.39503912503209215,0.00822834678225735
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,token_aligned,4,0.38823116093755344,0.006645884157866341
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,sgpt,0,0.6087345221602524,0.14617413785855035
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,sgpt,1,0.5149942743907254,0.1338756581541794
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,sgpt,2,0.5553227462731101,0.1395625009400975
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,sgpt,3,0.552503249121235,0.09829073692723678
+goldfish-models/eng_latn_10mb,goldfish-models/deu_latn_5mb,flores,sgpt,4,0.5579056850330331,0.0733768496880179

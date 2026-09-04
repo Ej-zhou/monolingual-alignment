@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Downloaded parallel data (regenerate with data/download_parallel.py)
+data/*/
+
+# Per-experiment caches, logs and generated figures/tables
+*/cache/
+*/slurm_output/
+*/figures/
+*/tables/
+*.npy
+*.npz
+*/results/*/predictions/

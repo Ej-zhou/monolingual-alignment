@@ -1,0 +1,16 @@
+{
+  "opus": {
+    "_default": 500,
+    "eng_latn-fra_latn": 1500,
+    "eng_latn-zho_hans": 100,
+    "eng_latn-rus_cyrl": 100,
+    "eng_latn-arb_arab": 100
+  },
+  "tatoeba": {
+    "_default": 500,
+    "eng_latn-fra_latn": 1500,
+    "eng_latn-zho_hans": 1500,
+    "eng_latn-rus_cyrl": 100,
+    "eng_latn-arb_arab": 1500
+  }
+}
